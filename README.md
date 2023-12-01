@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 #### Backlog
 1. Add the vector database (https://qdrant.tech/) as an offline store.
 
-### LangChain.com
-#### LangSmith
 
 <!--
 #### Misc:
