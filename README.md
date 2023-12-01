@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Feast.dev (last update: Nov-30-2023)
 #### Tasks Queue 
 1. (done) ~~FeatureView name conflicts between streaming Featureview and regular FeatureView:~~ [#3836](https://github.com/feast-dev/feast/issues/3836),[#3805](https://github.com/feast-dev/feast/issues/3805)
-2. ~~SnowFlake Feature Store requires READ-only property, as there is an unnecessary "CREATE Table" logic over there. [#3844](https://github.com/feast-dev/feast/issues/3844)~~
+2. (done) ~~SnowFlake Feature Store requires READ-only property, as there is an unnecessary "CREATE Table" logic over there. [#3844](https://github.com/feast-dev/feast/issues/3844)~~
 3. Pydantic 2.0 upgradation. [#3778](https://github.com/feast-dev/feast/issues/3778)
 4. "Go" Feature server improvement.
 
