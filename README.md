@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 4. "Go" Feature server improvement.
 
 #### Backlog
-1. Add the vector database (https://qdrant.tech/) as an offline store.
+1. Add the vector database (https://qdrant.tech/) as an datasource.
 
 
 <!--
