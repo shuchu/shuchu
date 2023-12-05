@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 4. "Go" Feature server improvement.
 
 #### Backlog
-1. Add the vector database (https://qdrant.tech/) as an datasource.
+1. Add the vector database (https://qdrant.tech/) as a datasource.
+2. Build a demo of RAG by LangChain, vLLM and Feast.
 
 
 <!--
