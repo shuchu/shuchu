@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-### Feast.dev (last update: Nov-30-2023)
+### Feast.dev (last update: Dec-18-2023)
+Tecton will move the Feast project to the Linux foundation(https://www.linuxfoundation.org/). I will stop on it until this transfer is done. (Coz no reviewers for it now.)  
 #### Tasks Queue 
 1. (done) ~~FeatureView name conflicts between streaming Featureview and regular FeatureView:~~ [#3836](https://github.com/feast-dev/feast/issues/3836),[#3805](https://github.com/feast-dev/feast/issues/3805)
 2. (done) ~~SnowFlake Feature Store requires READ-only property, as there is an unnecessary "CREATE Table" logic over there. [#3844](https://github.com/feast-dev/feast/issues/3844)~~
