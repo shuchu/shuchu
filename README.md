@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-### DB-GPT
+last update: Jan-05-2024
+
+### DB-GPT 
 1. Start reading.
 
-### Feast.dev (last update: Dec-18-2023)
+### Feast.dev 
 Tecton will move the Feast project to the Linux foundation(https://www.linuxfoundation.org/). I will stop on it until this transfer is done. (Coz no reviewers for it now.)  
 #### Tasks Queue 
 1. (done) ~~FeatureView name conflicts between streaming Featureview and regular FeatureView:~~ [#3836](https://github.com/feast-dev/feast/issues/3836),[#3805](https://github.com/feast-dev/feast/issues/3805)
