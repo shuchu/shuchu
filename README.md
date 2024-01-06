@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-
+### DB-GPT
+1. Start reading.
 
 ### Feast.dev (last update: Dec-18-2023)
 Tecton will move the Feast project to the Linux foundation(https://www.linuxfoundation.org/). I will stop on it until this transfer is done. (Coz no reviewers for it now.)  
@@ -25,8 +26,8 @@ Tecton will move the Feast project to the Linux foundation(https://www.linuxfoun
 4. "Go" Feature server improvement.
 
 #### Backlog
-1. Add the vector database (https://qdrant.tech/) as a datasource.
-2. Build a demo of RAG by LangChain, vLLM and Feast.
+1. Add the vector database (https://qdrant.tech/) as a data source.
+2. Build a demo of RAG by LangChain, vLLM, and Feast.
 
 
 <!--
