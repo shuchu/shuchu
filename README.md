@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 last update: Jan-05-2024
 
-### DB-GPT 
-1. Start reading.
-
 ### Feast.dev 
 Tecton will move the Feast project to the Linux foundation(https://www.linuxfoundation.org/). I will stop on it until this transfer is done. (Coz no reviewers for it now.)  
 #### Tasks Queue 
