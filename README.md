@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Jan-05-2024
+last update: Jan-15-2024
 
 ### Feast.dev 
-Tecton will move the Feast project to the Linux foundation(https://www.linuxfoundation.org/). I will stop on it until this transfer is done. (Coz no reviewers for it now.)  
+Good News, Feast project is back to normal running status. Here is a doc about the future plan: https://docs.google.com/document/d/1DgtDmLCBnXQF9qva9X6Vac2ehpplj2iz6ZYw76NL8gM/edit?usp=sharing
+
 #### Tasks Queue 
 1. (done) ~~FeatureView name conflicts between streaming Featureview and regular FeatureView:~~ [#3836](https://github.com/feast-dev/feast/issues/3836),[#3805](https://github.com/feast-dev/feast/issues/3805)
 2. (done) ~~SnowFlake Feature Store requires READ-only property, as there is an unnecessary "CREATE Table" logic over there. [#3844](https://github.com/feast-dev/feast/issues/3844)~~
 3. Pydantic 2.0 upgradation. [#3778](https://github.com/feast-dev/feast/issues/3778)
-4. "Go" Feature server improvement.
+
 
 #### Backlog
 1. Add the vector database (https://qdrant.tech/) as a data source.
 2. Build a demo of RAG by LangChain, vLLM, and Feast.
+3. "Go" Feature server improvement.
 
 
 <!--
