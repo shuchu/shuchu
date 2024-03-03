@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Feb-17-2024
+last update: Mar-1-2024
 
 ### Feast.dev 
-Good News, The Feast project is back to normal running status. Here is a doc about the future plan: https://docs.google.com/document/d/1DgtDmLCBnXQF9qva9X6Vac2ehpplj2iz6ZYw76NL8gM/edit?usp=sharing
-Everything is back to normal since we have new maintainers and reviewers. 
+Good News, The Feast project is back to normal running status. Here is a doc about the plan: https://docs.google.com/document/d/1DgtDmLCBnXQF9qva9X6Vac2ehpplj2iz6ZYw76NL8gM/edit?usp=sharing
+Everything is back to normal since we have new maintainers and reviewers. Thanks, Redhat and Affirm!!
 
 #### Tasks Queue 
 1. (done) ~~FeatureView name conflicts between streaming Featureview and regular FeatureView:~~ [#3836](https://github.com/feast-dev/feast/issues/3836),[#3805](https://github.com/feast-dev/feast/issues/3805)
@@ -30,7 +30,7 @@ Everything is back to normal since we have new maintainers and reviewers.
 
 
 #### Backlog
-1. Imrpove the Logging feature of Feast.
+1. Improve the Logging feature of Feast.
 1. "Go" Feature server improvement.
 
 
