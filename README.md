@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Mar-18-2024
+last update: April-2-2024
 
 ### Feast.dev 
 Good News, The Feast project is back to normal running status. Here is a doc about the plan: https://docs.google.com/document/d/1DgtDmLCBnXQF9qva9X6Vac2ehpplj2iz6ZYw76NL8gM/edit?usp=sharing
@@ -29,8 +29,6 @@ Everything is back to normal since we have new maintainers and reviewers. Thanks
 
 #### Backlog
 1. Improve the Logging feature of Feast.
-2. Add the vectorDB (Postgre+pgvector) as a data source for Feast.
-3. Build a demo of RAG by LangChain, vLLM, and Feast.
 
 <!--
 #### Misc:
