@@ -27,17 +27,17 @@ Everything is back to normal since we have new maintainers and reviewers. Thanks
 3. (done) ~~protobuf crash at higher version that 4.23.4.~~ [#3921](https://github.com/feast-dev/feast/issues/3921)
 
 ### Feast Feature Server Improvements
-After few discussion among the maintainers, we decided to have the following plan for Feast feature server:
-1, Work on the Python version of featuer server first. Focus on reducing the latency.
-2, Fix the Java version. drop transformation service for odfvs
-3, Improve the Go version. remove the Apache Arrow library dependecies from the code. 
+After few discussion among the maintainers, we decided to have the following plan for Feast feature server:   
+1, Work on the Python version of featuer server first. Focus on reducing the latency.   
+2, Fix the Java version. drop transformation service for odfvs.   
+3, Improve the Go version. remove the Apache Arrow library dependecies from the code.    
 
-My current plan of reducing the latency of Python Feature Server.
-1, Modify the existing benchmark code to run it locally. 
-2, Build a Helm chart for deploy a Feast Feature Server to k8s.
-3, Add the monitor metrics and traces.
-4, Evaluation.
-5, (TBD) Three optimization directions: (1) asnyc , (2) Cpytho, (3) Numba
+My current plan of reducing the latency of Python Feature Server.   
+1, Modify the existing benchmark code to run it locally.    
+2, Build a Helm chart for deploy a Feast Feature Server to k8s.   
+3, Add the monitor metrics and traces.   
+4, Evaluation.   
+5, (TBD) Three optimization directions: (1) asnyc , (2) Cpytho, (3) Numba.   
 
 #### Backlog
 1. Improve the Logging feature of Feast.
