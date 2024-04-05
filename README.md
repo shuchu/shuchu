@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: April-2-2024
+last update: April-4-2024
 
 ### Feast.dev 
 Good News, The Feast project is back to normal running status. Here is a doc about the plan: https://docs.google.com/document/d/1DgtDmLCBnXQF9qva9X6Vac2ehpplj2iz6ZYw76NL8gM/edit?usp=sharing
@@ -25,10 +25,24 @@ Everything is back to normal since we have new maintainers and reviewers. Thanks
 2. (done) ~~SnowFlake Feature Store requires READ-only property, as there is an unnecessary "CREATE Table" logic over there.~~ [#3844](https://github.com/feast-dev/feast/issues/3844)
 3. (done) ~~Pydantic 2.0 upgradation.~~ [#3778](https://github.com/feast-dev/feast/issues/3778)
 3. (done) ~~protobuf crash at higher version that 4.23.4.~~ [#3921](https://github.com/feast-dev/feast/issues/3921)
-4. (wip) "Go" Feature server improvement. [#3998](https://github.com/feast-dev/feast/issues/3998)
+
+### Feast Feature Server Improvements
+After few discussion among the maintainers, we decided to have the following plan for Feast feature server:
+1, Work on the Python version of featuer server first. Focus on reducing the latency.
+2, Fix the Java version. drop transformation service for odfvs
+3, Improve the Go version. remove the Apache Arrow library dependecies from the code. 
+
+My current plan of reducing the latency of Python Feature Server.
+1, Modify the existing benchmark code to run it locally. 
+2, Build a Helm chart for deploy a Feast Feature Server to k8s.
+3, Add the monitor metrics and traces.
+4, Evaluation.
+5, (TBD) Three optimization directions: (1) asnyc , (2) Cpytho, (3) Numba
 
 #### Backlog
 1. Improve the Logging feature of Feast.
+2.  "Go" Feature server improvement. [#3998](https://github.com/feast-dev/feast/issues/3998)
+
 
 <!--
 #### Misc:
