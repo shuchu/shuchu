@@ -37,7 +37,7 @@ My current plan of reducing the latency of Python Feature Server.
 2, Build a Helm chart for deploy a Feast Feature Server to k8s.   
 3, Add the monitor metrics and traces.   
 4, Evaluation.   
-5, (TBD) Three optimization directions: (1) asnyc , (2) Cpytho, (3) Numba.   
+5, (TBD) Two optimization directions: (1) asnyc , (2) Cpython/Rust
 
 #### Backlog
 1. Improve the Logging feature of Feast.
