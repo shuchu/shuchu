@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: April-26-2024
+last update: May-14-2024
 
 ### Feast.dev 
 
 #### Tasks Queue 
-1, Instrument the performance of Feast Python Feature Server by OpenTelemetry [#4141](https://github.com/feast-dev/feast/issues/4141)
+1, Improve the performance of On-demand feature view.
+
 
 
 #### Backlog
-1. Improve the Logging feature of Feast.
+1. Improve the Logging feature of Feast. [#4141](https://github.com/feast-dev/feast/issues/4141)
 2.  "Go" Feature server improvement. [#3998](https://github.com/feast-dev/feast/issues/3998)
 
 
