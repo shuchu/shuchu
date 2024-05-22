@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: May-14-2024
+last update: May-21-2024
 
 ### Feast.dev 
 
 #### Tasks Queue 
 1, Improve the performance of On-demand feature view.
+2, Develop a local version of credit-scoring demo.
 
 
 
