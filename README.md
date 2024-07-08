@@ -14,19 +14,18 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: May-21-2024
+last update: July-7-2024
 
 ### Feast.dev 
 
 #### Tasks Queue 
-1, Improve the performance of On-demand feature view.
-2, Develop a local version of credit-scoring demo.
+1, Retired the Pytz, and datetime.utcnow()
 
 
 
 #### Backlog
 1. Improve the Logging feature of Feast. [#4141](https://github.com/feast-dev/feast/issues/4141)
-2.  "Go" Feature server improvement. [#3998](https://github.com/feast-dev/feast/issues/3998)
+
 
 
 <!--
