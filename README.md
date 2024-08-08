@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: July-7-2024
+last update: Aug -7-2024
 
 ### Feast.dev 
 
 #### Tasks Queue 
-1, Retired the Pytz, and datetime.utcnow()
-
+1, Retire Pytz.
 
 
 #### Backlog
