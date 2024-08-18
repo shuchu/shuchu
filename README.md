@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Aug -7-2024
+last update: Aug -18-2024
 
 ### Feast.dev 
 
 #### Tasks Queue 
-1, Retire Pytz.
+~~1, Retire Pytz.~~
 
 
 #### Backlog
 1. Improve the Logging feature of Feast. [#4141](https://github.com/feast-dev/feast/issues/4141)
-
 
 
 <!--
