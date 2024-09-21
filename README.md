@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Aug -18-2024
+last update: Sep -18-2024
 
 ### Feast.dev 
 
 #### Tasks Queue 
-~~1, Retire Pytz.~~
+1. Fix Go Feature Server   
+      a. https://github.com/feast-dev/feast/issues/4506
 
 
 #### Backlog
