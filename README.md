@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Dec-05-2024
+last update: Feb-18-2025
 
 ### Feast.dev 
 
