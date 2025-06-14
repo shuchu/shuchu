@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: Feb-18-2025
+last update: Jun-14-2025
 
 ### Feast.dev 
 
@@ -25,18 +25,9 @@ last update: Feb-18-2025
 4. Increase the unit test coverage of Go Feature Server
 5. (TBD) setup the CI of Go Feature server
 
-
-
 #### Backlog
 1. Improve the Logging feature of Feast. [#4141](https://github.com/feast-dev/feast/issues/4141)
 2. Add missing feature like RBAC for go Feature server??
 
-
-<!--
-#### Misc:
-1. MIT 6.824 course project
-2. C++ server-side programming practice.
-3. LangChain (RAG only)
--->
 
 
