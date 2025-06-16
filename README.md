@@ -19,7 +19,7 @@ last update: Jun-14-2025
 ### Feast.dev 
 
 #### Tasks Queue 
-~~1. Add metadata info for "feature_store.yaml": https://github.com/feast-dev/feast/issues/4789~~
+~~1. Add metadata info for "feature_store.yaml": https://github.com/feast-dev/feast/issues/4789~~  
 2. Create a demo of the new Go Feature Server + Python gRPC transform server: https://github.com/feast-dev/feast-credit-score-local-tutorial/issues/7
 3. Use OTEL instead of Datadog agent: https://github.com/feast-dev/feast/issues/4821
 4. Increase the unit test coverage of Go Feature Server
