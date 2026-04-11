@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-last update: 03-14-2026
+last update: 04-10-2026
 
 ### Feast.dev 
 
@@ -23,7 +23,8 @@ last update: 03-14-2026
 ~~2. Create a demo of the new Go Feature Server + Python gRPC transform server: https://github.com/feast-dev/feast-credit-score-local-tutorial/issues/7~~    
 ~~3. Use OTEL instead of Datadog agent: https://github.com/feast-dev/feast/issues/4821~~   
 ~~4. Increase the unit test coverage of Go Feature Server~~  
-4. Add tls support to Go feature server: https://github.com/feast-dev/feast/issues/6095
+~~5. Add tls support to Go feature server: https://github.com/feast-dev/feast/issues/6095~~
+6. Support multiple index for different teams: https://github.com/feast-dev/feast/issues/5652
 
 #### Backlog
 1. Improve the Logging feature of Feast. [#4141](https://github.com/feast-dev/feast/issues/4141)
