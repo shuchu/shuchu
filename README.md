@@ -30,7 +30,7 @@ last update: 08-30-2026
 1. Improve the Logging feature of Feast. [#4141](https://github.com/feast-dev/feast/issues/4141)
 2. Add missing feature like RBAC for go Feature server??
 3. Support multiple index for different teams: https://github.com/feast-dev/feast/issues/5652
-4. Support multiple index for different teams: https://github.com/feast-dev/feast/issues/5652
+
 
 
 
